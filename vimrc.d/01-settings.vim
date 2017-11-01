@@ -57,6 +57,8 @@ end
 if has("gui_running")
     set lines=75
     set columns=180
+    set guioptions -=L
+    set guioptions -=r
 endif
 
 " ==================================================
