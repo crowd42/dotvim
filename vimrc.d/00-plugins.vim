@@ -46,7 +46,7 @@ Plug 'fatih/vim-go'
 Plug 'rust-lang/rust.vim'
 Plug 'Quramy/tsuquyomi'
 Plug 'ekalinin/Dockerfile.vim'
-
+Plug 'plasticboy/vim-markdown'
 
 " Over 70 language packs
 Plug 'sheerun/vim-polyglot'
